@@ -1,0 +1,114 @@
+Enter the text file name you want to test (just 1 or 2/3/4/5): 
+3
+HondaCar gets informed by all groups that GarageB has the lowest price of 0.5 dollars/hour and has the most available spaces (4 spots)
+HondaCar gets a 08:00 time-stamped ticket and enters GarageB
+ToyotaCar gets informed by all groups that GarageA has the lowest price of 0.5 dollars/hour and has the most available spaces (3 spots)
+ToyotaCar gets a 08:00 time-stamped ticket and enters GarageA
+Car3 gets informed by all groups that GarageB has the lowest price of 0.5 dollars/hour and has the most available spaces (3 spots)
+Car3 gets a 08:00 time-stamped ticket and enters GarageB
+Car4 gets informed by all groups that GarageC has the lowest price of 0.5 dollars/hour and has the most available spaces (3 spots)
+Car4 gets a 09:00 time-stamped ticket and enters GarageC
+Car5 gets informed by all groups that GarageA has the lowest price of 0.5 dollars/hour and has the most available spaces (2 spots)
+Car5 gets a 09:00 time-stamped ticket and enters GarageA
+At 09:15, at GarageB, HondaCar presents their ticket and pays 0.63 dollars for 1.25 hours parking. HondaCar exits from GarageB
+At 09:15, at GarageA, ToyotaCar presents their ticket and pays 0.63 dollars for 1.25 hours parking. ToyotaCar exits from GarageA
+Car6 gets informed by all groups that GarageB has the lowest price of 0.5 dollars/hour and has the most available spaces (3 spots)
+Car6 gets a 09:30 time-stamped ticket and enters GarageB
+Car7 gets informed by all groups that GarageA has the lowest price of 0.5 dollars/hour and has the most available spaces (2 spots)
+Car7 gets a 09:30 time-stamped ticket and enters GarageA
+Car8 gets informed by all groups that GarageB has the lowest price of 0.5 dollars/hour and has the most available spaces (2 spots)
+Car8 gets a 09:30 time-stamped ticket and enters GarageB
+Car9 gets informed by all groups that GarageC has the lowest price of 0.5 dollars/hour and has the most available spaces (2 spots)
+Car9 gets a 10:00 time-stamped ticket and enters GarageC
+Car10 gets informed by all groups that GarageA has the lowest price of 0.5 dollars/hour and has the most available spaces (1 spots)
+Car10 gets a 10:00 time-stamped ticket and enters GarageA
+Car11 gets informed by all groups that GarageB has the lowest price of 0.5 dollars/hour and has the most available spaces (1 spots)
+Car11 gets a 10:00 time-stamped ticket and enters GarageB
+Car12 gets informed by all groups that GarageC has the lowest price of 0.5 dollars/hour and has the most available spaces (1 spots)
+Car12 gets a 10:00 time-stamped ticket and enters GarageC
+Car13 gets informed by all groups that GarageD has the lowest price of 1.5 dollars/hour and has the most available spaces (5 spots)
+Car13 gets a 12:00 time-stamped ticket and enters GarageD
+HondaCar gets informed by all groups that GarageD has the lowest price of 1.5 dollars/hour and has the most available spaces (4 spots)
+HondaCar gets a 12:00 time-stamped ticket and enters GarageD
+Car14 gets informed by all groups that GarageD has the lowest price of 1.5 dollars/hour and has the most available spaces (3 spots)
+Car14 gets a 13:00 time-stamped ticket and enters GarageD
+Car15 gets informed by all groups that GarageE has the lowest price of 1.5 dollars/hour and has the most available spaces (3 spots)
+Car15 gets a 13:00 time-stamped ticket and enters GarageE
+At 13:05, at GarageA, Car5 presents their ticket and pays 2.04 dollars for 4.08 hours parking. Car5 exits from GarageA
+Car16 gets informed by all groups that GarageA has the lowest price of 0.5 dollars/hour and has the most available spaces (1 spots)
+Car16 gets a 14:10 time-stamped ticket and enters GarageA
+Car17 gets informed by all groups that GarageD has the lowest price of 1.5 dollars/hour and has the most available spaces (2 spots)
+Car17 gets a 14:10 time-stamped ticket and enters GarageD
+ToyotaCar gets informed by all groups that GarageE has the lowest price of 1.5 dollars/hour and has the most available spaces (2 spots)
+ToyotaCar gets a 14:10 time-stamped ticket and enters GarageE
+Car18 gets informed by all groups that GarageD has the lowest price of 1.5 dollars/hour and has the most available spaces (1 spots)
+Car18 gets a 14:12 time-stamped ticket and enters GarageD
+Car19 gets informed by all groups that GarageE has the lowest price of 1.5 dollars/hour and has the most available spaces (1 spots)
+Car19 gets a 14:12 time-stamped ticket and enters GarageE
+All parking garages are full, Car20 has inquired information at 14:12 and is now waiting until spot is available.
+All parking garages are full, Car21 has inquired information at 14:14 and is now waiting until spot is available.
+All parking garages are full, Car22 has inquired information at 14:14 and is now waiting until spot is available.
+All parking garages are full, Car23 has inquired information at 14:14 and is now waiting until spot is available.
+All parking garages are full, Car24 has inquired information at 14:15 and is now waiting until spot is available.
+All parking garages are full, Car25 has inquired information at 14:15 and is now waiting until spot is available.
+All parking garages are full, Car26 has inquired information at 14:15 and is now waiting until spot is available.
+All parking garages are full, Car27 has inquired information at 14:20 and is now waiting until spot is available.
+All parking garages are full, Car28 has inquired information at 14:20 and is now waiting until spot is available.
+All parking garages are full, Car29 has inquired information at 14:20 and is now waiting until spot is available.
+At 14:35, at GarageA, Car10 presents their ticket and pays 2.29 dollars for 4.58 hours parking. Car10 exits from GarageA
+Car20 gets informed by all groups that GarageA has the lowest price of 0.5 dollars/hour and has the most available spaces (1 spots)
+Car20 gets a 14:35 time-stamped ticket and enters GarageA
+At 14:35, at GarageC, Car4 presents their ticket and pays 2.79 dollars for 5.58 hours parking. Car4 exits from GarageC
+Car21 gets informed by all groups that GarageC has the lowest price of 0.5 dollars/hour and has the most available spaces (1 spots)
+Car21 gets a 14:35 time-stamped ticket and enters GarageC
+At 14:35, at GarageA, Car7 presents their ticket and pays 2.54 dollars for 5.08 hours parking. Car7 exits from GarageA
+Car22 gets informed by all groups that GarageA has the lowest price of 0.5 dollars/hour and has the most available spaces (1 spots)
+Car22 gets a 14:35 time-stamped ticket and enters GarageA
+At 14:37, at GarageB, Car8 presents their ticket and pays 2.56 dollars for 5.12 hours parking. Car8 exits from GarageB
+Car23 gets informed by all groups that GarageB has the lowest price of 0.5 dollars/hour and has the most available spaces (1 spots)
+Car23 gets a 14:37 time-stamped ticket and enters GarageB
+At 14:45, at GarageE, Car19 presents their ticket and pays 0.83 dollars for 0.55 hours parking. Car19 exits from GarageE
+Car24 gets informed by all groups that GarageE has the lowest price of 1.5 dollars/hour and has the most available spaces (1 spots)
+Car24 gets a 14:45 time-stamped ticket and enters GarageE
+At 14:50, at GarageD, Car18 presents their ticket and pays 0.95 dollars for 0.63 hours parking. Car18 exits from GarageD
+Car25 gets informed by all groups that GarageD has the lowest price of 1.5 dollars/hour and has the most available spaces (1 spots)
+Car25 gets a 14:50 time-stamped ticket and enters GarageD
+At 14:50, at GarageE, Car15 presents their ticket and pays 2.75 dollars for 1.83 hours parking. Car15 exits from GarageE
+Car26 gets informed by all groups that GarageE has the lowest price of 1.5 dollars/hour and has the most available spaces (1 spots)
+Car26 gets a 14:50 time-stamped ticket and enters GarageE
+At 14:50, at GarageD, HondaCar presents their ticket and pays 4.25 dollars for 2.83 hours parking. HondaCar exits from GarageD
+Car27 gets informed by all groups that GarageD has the lowest price of 1.5 dollars/hour and has the most available spaces (1 spots)
+Car27 gets a 14:50 time-stamped ticket and enters GarageD
+At 14:55, at GarageB, Car3 presents their ticket and pays 3.46 dollars for 6.92 hours parking. Car3 exits from GarageB
+Car28 gets informed by all groups that GarageB has the lowest price of 0.5 dollars/hour and has the most available spaces (1 spots)
+Car28 gets a 14:55 time-stamped ticket and enters GarageB
+At 14:55, at GarageB, Car6 presents their ticket and pays 2.71 dollars for 5.42 hours parking. Car6 exits from GarageB
+Car29 gets informed by all groups that GarageB has the lowest price of 0.5 dollars/hour and has the most available spaces (1 spots)
+Car29 gets a 14:55 time-stamped ticket and enters GarageB
+At 14:55, at GarageD, Car13 presents their ticket and pays 4.38 dollars for 2.92 hours parking. Car13 exits from GarageD
+At 14:55, at GarageD, Car14 presents their ticket and pays 2.88 dollars for 1.92 hours parking. Car14 exits from GarageD
+At 14:55, at GarageA, Car22 presents their ticket and pays 0.17 dollars for 0.33 hours parking. Car22 exits from GarageA
+At 14:55, at GarageB, Car23 presents their ticket and pays 0.15 dollars for 0.30 hours parking. Car23 exits from GarageB
+At 14:55, at GarageA, Car20 presents their ticket and pays 0.17 dollars for 0.33 hours parking. Car20 exits from GarageA
+At 14:55, at GarageC, Car21 presents their ticket and pays 0.17 dollars for 0.33 hours parking. Car21 exits from GarageC
+At 14:55, at GarageE, Car26 presents their ticket and pays 0.13 dollars for 0.08 hours parking. Car26 exits from GarageE
+At 14:55, at GarageE, ToyotaCar presents their ticket and pays 1.13 dollars for 0.75 hours parking. ToyotaCar exits from GarageE
+Car30 gets informed by all groups that GarageA has the lowest price of 0.5 dollars/hour and has the most available spaces (2 spots)
+Car30 gets a 15:00 time-stamped ticket and enters GarageA
+Car31 gets informed by all groups that GarageA has the lowest price of 0.5 dollars/hour and has the most available spaces (1 spots)
+Car31 gets a 15:00 time-stamped ticket and enters GarageA
+Car32 gets informed by all groups that GarageB has the lowest price of 0.5 dollars/hour and has the most available spaces (1 spots)
+Car32 gets a 15:00 time-stamped ticket and enters GarageB
+Car33 gets informed by all groups that GarageC has the lowest price of 0.5 dollars/hour and has the most available spaces (1 spots)
+Car33 gets a 15:05 time-stamped ticket and enters GarageC
+Car34 gets informed by all groups that GarageD has the lowest price of 1.5 dollars/hour and has the most available spaces (2 spots)
+Car34 gets a 15:05 time-stamped ticket and enters GarageD
+Car35 gets informed by all groups that GarageE has the lowest price of 1.5 dollars/hour and has the most available spaces (2 spots)
+Car35 gets a 15:05 time-stamped ticket and enters GarageE
+Car36 gets informed by all groups that GarageD has the lowest price of 1.5 dollars/hour and has the most available spaces (1 spots)
+Car36 gets a 15:10 time-stamped ticket and enters GarageD
+Car37 gets informed by all groups that GarageE has the lowest price of 1.5 dollars/hour and has the most available spaces (1 spots)
+Car37 gets a 15:10 time-stamped ticket and enters GarageE
+All parking garages are full, Car38 has inquired information at 15:10 and is now waiting until spot is available.
+
+Process finished with exit code 0

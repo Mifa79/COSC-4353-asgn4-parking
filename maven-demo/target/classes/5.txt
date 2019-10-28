@@ -1,0 +1,33 @@
+Group_info: Group1 0.5 GarageA#10 GarageB#15 GarageC#10
+Group_info: Group2 1.5 GarageD#20 GarageE#25
+8:00 inquiry_arrive: Car1 Car2 Car3
+9:00 inquiry_arrive: Car4 Car5
+9:15 exit: Car1 Car2
+Group_reset_info: Group1 2.0
+9:30 inquiry_arrive: Car6 Car7 Car8
+10:00 inquiry_arrive: Car9 Car10 Car11 Car12
+13:00 exit: Car6 Car3 Car4 Car9 Car11 Car12
+Group_reset_info: Group2 2.5
+14:10 inquiry_arrive: Car13 Car14 Car15
+14:12 inquiry_arrive: Car16 Car17      
+14:13 inquiry_arrive: Car18 Car19 Car20
+14:14 inquiry_arrive: Car21 Car22 Car23
+14:15 inquiry_arrive: Car24 Car25 Car26
+14:20 inquiry_arrive: Car27 Car28 Car29
+14:35 exit: Car10 Car7
+14:37 exit: Car8
+14:50 exit: Car18 Car15
+14:55 inquiry_arrive: Car30 Car31
+15:13 exit: Car19 Car5
+15:15 inquiry_arrive: Car32 Car33 Car34 Car35
+15:30 inquiry_arrive: Car36 Car37 Car38 Car39 Car40 Car41 Car42 Car43 Car44
+15:35 inquiry_arrive: Car45 Car46 Car47 Car48 Car49 Car50 Car51 Car52 Car53 Car54
+15:40 inquiry_arrive: Car55 Car56 Car57 Car58 Car59 Car60 Car61 Car62 Car63 Car64
+15:45 inquiry_arrive: Car65 Car66 Car67 Car68 Car69 Car70 Car71 Car72 Car73 Car74
+16:00 inquiry_arrive: Car75 Car76 Car77 Car78 Car79 Car80 Car81 Car82 Car83 Car84
+16:10 inquiry_arrive: Car85 Car86 Car87 Car88 Car89 Car90 Car91 Car92 Car93 Car94
+16:15 inquiry_arrive: Car95 Car96 Car97 Car98 Car99
+Group_reset_info: Group2 3.5
+Group_reset_info: Group1 3.0
+16:30 exit: Car94 Car83 
+16:45 exit: Car41 Car42 Car40

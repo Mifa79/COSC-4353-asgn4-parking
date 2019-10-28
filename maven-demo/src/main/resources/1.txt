@@ -1,0 +1,14 @@
+Group_info: Group1 0.5 GarageA#5 GarageB#4
+Group_info: Group2 1.5 GarageC#6 GarageD#3
+8:00 inquiry_arrive: Car1 Car2 Car3
+9:00 inquiry_arrive: Car4 Car5
+9:15 exit: Car1 Car3
+9:30 inquiry_arrive: Car6 Car7 Car8
+10:00 inquiry_arrive: Car9 Car10 Car11 Car12
+12:00 inquiry_arrive: Car13 Car14
+13:00 inquiry_arrive: Car15
+13:05 exit: Car5 Car4 Car7
+14:10 inquiry_arrive: Car16 Car17
+14:12 inquiry_arrive: Car18 Car29 Car20
+14:35 exit: Car10
+14:37 exit: Car8
